@@ -1,0 +1,30 @@
+* {
+	text-align: center;
+}
+
+body {
+	background-color:#fccec2;
+}
+
+th{
+	padding: 80px;
+}
+
+#top{
+	background: #f5cabf;
+}
+
+#bottom{
+	background: #f5cabf;	
+}
+/*.secondstable{
+	width: 1%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin: auto;
+	flex-basis: 48%;
+	text-align: center;
+	border-radius: 8px;
+	margin-bottom: 200px;
+}*/
